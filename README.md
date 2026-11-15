@@ -1,12 +1,26 @@
 <h1 align="center">hooman009</h1>
-<p align="center"><b>Creator of ChatBox</b><br>ساختن فضاهایی برای ارتباط، با رنگ و سلیقهٔ خودت</p>
-<p align="center"><a href="https://hooman009.ir">Personal website</a> · <a href="https://chatbox.hooman009.ir">ChatBox</a> · <a href="https://github.com/hooman009dev/ChatBox/releases/latest">Downloads</a></p>
+<p align="center"><b>Web Designer & Developer</b><br>طراحی سایت، توسعهٔ وب و ساخت تجربه‌های آنلاین</p>
+<p align="center"><a href="https://hooman009.ir">Portfolio</a> · <a href="https://hooman009.ir/work">Selected work</a> · <a href="https://hooman009.ir/contact">Let’s talk</a></p>
 
 <p align="center"><a href="https://github.com/hooman009dev/ChatBox"><img src="https://raw.githubusercontent.com/hooman009dev/ChatBox/main/assets/chatbox-hero.png" alt="ChatBox, created by hooman009" width="100%"></a></p>
 
-## Hi, I’m hooman009
+## Hey, I’m Hooman
 
-I create ChatBox: a colorful space for conversations across Windows, Android and the web. I care about the details people feel every day—personal themes, clear interactions, expressive messages and an interface that feels at home in Persian and English.
+I design and build websites as **hooman009**—from the interface and mobile layout to custom dashboards, user accounts and the finished product. My work brings together visual design, TypeScript and JavaScript, responsive development and performance tuning.
+
+I work on business websites, course platforms, community projects and custom web products. Some start with a blank page; others need a fresh look and a better experience.
+
+### Selected work
+
+| Project | My work | Explore |
+| --- | --- | --- |
+| **ChatBox** | Design and development of a messaging product, now on web, Windows and Android | [ChatBox](https://chatbox.hooman009.ir) |
+| **Arman Academy** | Website for a barbering academy, with course discovery and consultation journeys | [Project](https://hooman009.ir/work/arman-academy) |
+| **SculkMC** | Website redesign for a Minecraft community | [Project](https://hooman009.ir/work/sculkmc) |
+
+**What I do:** UI design · Responsive websites · Custom dashboards · User accounts · Web development · Launch & support
+
+Have a website in mind? [Tell me about it](https://hooman009.ir/contact).
 
 ### My featured project
 
@@ -17,9 +31,19 @@ I create ChatBox: a colorful space for conversations across Windows, Android and
 ---
 <div dir="rtl">
 
-## سلام، من hooman009 هستم
+## سلام، من هومنم
 
-سازندهٔ **چت‌باکس**؛ فضایی برای گفت‌وگو روی ویندوز، اندروید و وب. به جزئیاتی اهمیت می‌دم که هر روز باهاشون سر و کار داریم: تم دلخواه، کارکرد روشن و رابطی که با فارسی و انگلیسی راحت باشه.
+با نام **hooman009** سایت طراحی می‌کنم و می‌سازم؛ از ظاهر و نسخهٔ موبایل تا پنل مدیریت، حساب کاربری و امکانات اختصاصی. با TypeScript و JavaScript کار می‌کنم و طراحی رابط، سرعت و اجرای سایت هم بخشی از کارمه.
+
+سایت‌های تجاری و آموزشی، پروژه‌های اجتماعی و محصولات اختصاصی وب از کارهام هستن؛ هم طراحی از صفر انجام می‌دم، هم بازطراحی سایت‌هایی که به یه ظاهر و تجربهٔ تازه نیاز دارن.
+
+### چند تا از کارهام
+
+- **چت‌باکس:** طراحی و توسعهٔ پیام‌رسان روی وب، ویندوز و اندروید. [دیدن پروژه](https://chatbox.hooman009.ir)
+- **آکادمی آرمان:** سایت معرفی دوره‌های آرایشگری و ارتباط هنرجو با آکادمی. [دیدن پروژه](https://hooman009.ir/work/arman-academy)
+- **SculkMC:** بازطراحی سایت سرور ماینکرفت. [دیدن پروژه](https://hooman009.ir/work/sculkmc)
+
+یه سایت تو ذهنت داری؟ [از پروژه‌ت بگو](https://hooman009.ir/contact).
 
 ### پروژهٔ من: چت‌باکس
 
