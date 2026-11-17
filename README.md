@@ -2,7 +2,7 @@
 <p align="center"><b>Web Designer & Developer</b><br>طراحی سایت، توسعهٔ وب و ساخت تجربه‌های آنلاین</p>
 <p align="center"><a href="https://hooman009.ir">Portfolio</a> · <a href="https://hooman009.ir/work">Selected work</a> · <a href="https://hooman009.ir/contact">Let’s talk</a></p>
 
-<p align="center"><a href="https://github.com/hooman009dev/ChatBox"><img src="https://raw.githubusercontent.com/hooman009dev/ChatBox/main/assets/chatbox - hero.jpg" alt="ChatBox, created by hooman009" width="100%"></a></p>
+<p align="center"><a href="https://github.com/hooman009dev/ChatBox"><img src="https://raw.githubusercontent.com/hooman009dev/ChatBox/main/assets/chatbox-hero.jpg" alt="ChatBox, created by hooman009" width="100%"></a></p>
 
 ## Hey, I’m Hooman
 
